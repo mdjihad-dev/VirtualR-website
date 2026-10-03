@@ -1,8 +1,35 @@
-# React + Vite
+# VirtualR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based web experience focused on responsive UI, component-driven development, and a clean SaaS-style presentation.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- React Router
+- Tailwind CSS
+- DaisyUI
+- Vite
+- JavaScript
+
+## Highlights
+
+- Responsive SaaS-style interface
+- Reusable React components
+- Client-side routing
+- Modern utility-first styling
+- Responsive layouts for different screen sizes
+
+## Getting Started
+
+```bash
+git clone https://github.com/mdjihad-dev/VirtualR-website.git
+cd VirtualR-website
+npm install
+npm run dev
+```
+
+## Project Focus
+
+This project demonstrates practical React development, responsive UI engineering, component reuse, routing, and modern frontend workflow.
+
+Built by MD JIHAD.
